@@ -4,7 +4,6 @@
 My Skills : HTML / CSS / JS / Python / Java / C# / C++ 
 
 - Recently I Am Learning This Language : Python
-- Want to Collaborate on This Project : cashloris
 - You Can Ask Me a Question In Discord : Kayess#0409
 - You Can Reach Me Here : kayesspersonalweb@gmail.com
 
